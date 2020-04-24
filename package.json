@@ -1,0 +1,22 @@
+{
+  "name": "registration",
+  "version": "1.0.0",
+  "description": "Registration Form",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm --version",
+    "start" : "nodemon index.js"
+  },
+  "author": "dinesh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "isset": "^1.0.4",
+    "jQuery": "^1.7.4",
+    "mongodb": "^3.5.0",
+    "mongoose": "^5.8.7"
+  }
+}
